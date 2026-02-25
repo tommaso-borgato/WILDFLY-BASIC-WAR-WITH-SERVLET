@@ -1,0 +1,2 @@
+embed-server --server-config=standalone.xml
+/subsystem=logging/logger=org.jboss.intersmash.applications:add(level=DEBUG)
